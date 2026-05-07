@@ -1,4 +1,4 @@
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class secondmaximumelement_08 {
     static void main(String[] args) {

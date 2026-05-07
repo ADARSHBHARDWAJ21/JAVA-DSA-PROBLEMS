@@ -1,4 +1,4 @@
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class Maxelemtinarray_03 {
     static void main(String[] args) {

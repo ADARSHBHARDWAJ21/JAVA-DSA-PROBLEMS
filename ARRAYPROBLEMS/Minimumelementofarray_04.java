@@ -1,4 +1,4 @@
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class Minimumelementofarray_04 {
     static void main(String[] args) {

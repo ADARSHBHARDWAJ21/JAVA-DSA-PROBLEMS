@@ -1,10 +1,11 @@
-package JAVAPROBLEMS;
+// reversing array from middle
+package ARRAYPROBLEMS;
 
-public class reversearray_10 {
+public class reversesearcharraymiidle {
     static void main(String[] args) {
         int[] arr = {6,8,1,2,4,9};
         int n = arr.length;
-        int i = 0 , j = n-1;
+        int i = 2 , j = 5;
         while(i<j){
             int temp = arr[i];
             arr[i] = arr[j];
@@ -18,3 +19,4 @@ public class reversearray_10 {
         }
     }
 }
+

@@ -1,5 +1,5 @@
 // linear search
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class searchinarray_06 {
     static void main(String[] args) {

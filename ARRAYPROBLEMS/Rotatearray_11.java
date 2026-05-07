@@ -1,6 +1,6 @@
 // rotate the array
 //d = 3
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class Rotatearray_11 {
     static void main(String[] args) {

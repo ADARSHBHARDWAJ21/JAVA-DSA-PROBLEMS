@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb8791c0-27f8-4c5e-aa49-d34c7aa1cbb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/merge2sortedarrays_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextgreaterelement_018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortarrays0s1sand2s3pointer_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortarrays0sand1s_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortarraysosand1sonepass_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortsarrray0s1sand2s_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Missingnumber_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Missingnumber_12.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ADARSHBHARDWAJ21"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS.git",
+    "accountId": "c4824299-8016-4a59-b1ab-ca2a1c872f8e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3DNQnwhJiNk9SfarmAEzGZgtLiu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CODE/JAVAPRACTISE/JAVA REVIISION/src/JAVAPROBLEMS"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8791c0-27f8-4c5e-aa49-d34c7aa1cbb6" name="Changes" comment="" />
+      <created>1778120217474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778120217474</updated>
+    </task>
+    <servers />
+  </component>
+</project>

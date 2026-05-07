@@ -1,5 +1,5 @@
 // Multiply odd indexed element by 2 qand add 10 to even indexed element
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class oddeven_05 {
     static void main(String[] args) {

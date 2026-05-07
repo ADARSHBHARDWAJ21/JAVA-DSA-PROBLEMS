@@ -1,4 +1,4 @@
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class SUMOFELEMENTSinArray_01 {
     static void main(String[] args) {

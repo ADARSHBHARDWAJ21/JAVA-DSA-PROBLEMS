@@ -1,4 +1,4 @@
-package JAVAPROBLEMS;
+package ARRAYPROBLEMS;
 
 public class productofarray_02 {
     static void main(String[] args) {
