@@ -1,0 +1,9 @@
+// WAP TO PRINT  TRANSPOSE OF THE MATRIX ENTERED BY THE USER AND STORE IT IN A NEW MATRIX
+package TWODARRAYPROBLEMS;
+
+public class TRANSPOSEOFMATRIX_05 {
+    static void main(String[] args) {
+
+
+    }
+}

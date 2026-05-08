@@ -7,7 +7,7 @@ public class addtwomatrix_04 {
         int[][] b = {{9, 3, 7}, {8, 6, 5}, {2, 4, 1}};
 
         int m = a.length;    // Number of rows
-        int n = a[0].length; // Number of columns
+        int n = a.length; // Number of columns
 
         int[][] res = new int[m][n];
 

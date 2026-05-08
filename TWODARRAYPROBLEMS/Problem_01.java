@@ -1,3 +1,5 @@
+
+//wap to store roll no marks obtained by 4 students side by side
 package TWODARRAYPROBLEMS;
 import java.util.Scanner;
 

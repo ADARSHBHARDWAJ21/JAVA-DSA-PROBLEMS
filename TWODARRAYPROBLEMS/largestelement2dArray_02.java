@@ -8,7 +8,9 @@ public class largestelement2dArray_02 {
         int n = arr[0].length;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j <n ; j++) {
-                mx = Math.max(mx,arr[i][j]);
+                if(arr[i][j]>mx){
+                    mx = arr[i][j];
+                }
             }
         }
         System.out.println(mx);
