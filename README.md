@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
