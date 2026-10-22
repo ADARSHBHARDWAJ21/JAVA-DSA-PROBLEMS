@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
