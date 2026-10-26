@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
