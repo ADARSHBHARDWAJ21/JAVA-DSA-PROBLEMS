@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
