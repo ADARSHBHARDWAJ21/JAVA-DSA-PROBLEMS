@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ADARSHBHARDWAJ21/JAVA-DSA-PROBLEMS/tree/master/1539-kth-missing-positive-number) |
